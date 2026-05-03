@@ -77,12 +77,14 @@ npm run build
 npx cap sync
 npx cap open android
 ```
-##Images : 
-This is how Login page looks: 
-<img src="assets/login_page.png" width="300"/>
-<img src="assets/home_page" width="300"/>
-<img src="assets/home_page2" width="300"/>
-<img src="assets/settings_page" width="300"/>
+## Images : 
+This is how Login page looks:
+
+<img src="src/assets/login_page.png" alt="Login Page" width="300"/>
+
+This is how Home pages looks :
+
+<img src="src/assets/home_page.png" alt="Home Page" width="300"/>        <img src="src/assets/home_page2.png" alt="Home Page2" width="295"/>
 
 ## 🤝 Contributing
 
